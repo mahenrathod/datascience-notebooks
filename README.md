@@ -1,4 +1,4 @@
-# Datascience-notebooks
+# Data Science Notebooks
 
 This project is created for the sole purpose of learning data science in my own way. It consists of jupyter notebooks having following list of experiments:
 * Supervised Learning
